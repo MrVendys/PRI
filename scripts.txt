@@ -10,4 +10,4 @@ XML - značkovací jazyk, nemá je předdefinované, jako html
                                                                   povinný       nepovinný        nepovinný
 Elementy např <rodina> může vypadat <_rodina>, <:rodina>.. ale nedoporučuje se to .... <URI:rodina> -> unikátní element -> nesmí se používat v obsahu ":"
 
-test
+test test test
